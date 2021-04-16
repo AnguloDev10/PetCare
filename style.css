@@ -3,6 +3,9 @@
         padding: 0;
         font-family: sans-serif;
     }
+    html{
+        background-color: #507656;
+    }
     .container{
         width: 100%;
         min-height: 100vh;
@@ -133,8 +136,8 @@
         margin-bottom: 5px;
     }
     .social-links img{
-        height: 13px;
-        margin: 20px;
+        height: 30px;
+        margin: 40px;
         cursor :pointer;
     }
     .social-links{
